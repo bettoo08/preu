@@ -1,0 +1,27 @@
+
+body{
+
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url(../imagenes/Gusanos_fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+  p {
+        font-size: 17px;
+        font-family: Geneva, Verdana, sans-serif;
+    
+    }
+
+    table {
+        width: 90%;
+        background-color:  #f9ffd8;
+        border: 2px solid;
+        border-style: groove;
+
+    }
+    
+    a{
+        position: fixed;
+    }

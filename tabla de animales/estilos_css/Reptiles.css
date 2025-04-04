@@ -1,0 +1,30 @@
+
+body{
+    background-color:  #cff4d7;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url(../imagenes/Reptiles_fondo.jpg);
+    background-size: cover;
+background-repeat: no-repeat;
+
+    }
+
+  p {
+        font-size: 17px;
+        font-family: Geneva, Verdana, sans-serif;
+    
+    }
+
+
+    table {
+        width: 90%;
+        background-color:  #cff4d7;
+        border: 2px solid;
+        border-style: groove;
+
+    }
+    
+    a{
+        position: fixed;
+    }
+

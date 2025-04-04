@@ -1,0 +1,66 @@
+
+body{
+    background-color:  #c9f4ff;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url(../imagenes/fondo\ de\ peces.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    }
+
+    a{
+        position: fixed;
+    }
+
+  p {
+        font-size: 17px;
+        font-family: Geneva, Verdana, sans-serif;
+    
+    }
+
+    img{
+    
+        border-radius: 10px;
+
+    }
+    li{
+        font-size: 17px;
+        font-family: Geneva, Verdana, sans-serif;
+    }
+
+    .texto_cuadro{
+        width:80%;
+    }
+
+    table {
+        width: 90%;
+        background-color: #b3e6ff;
+        border: 2px solid;
+        border-style: groove;
+
+    }
+    td {
+        padding: 40px;
+
+    }
+    .texto {
+        width: 70%;
+
+    }
+    .imagen {
+        width: 30%;
+        text-align: center;
+        
+    }
+    .imagen img {
+        width:100%; /* La imagen ocupa todo el espacio disponible */
+        height: auto;
+        display: block;
+    
+    }
+    .recuadro{
+
+background-color: white;
+
+
+    }

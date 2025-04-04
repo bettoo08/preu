@@ -1,0 +1,27 @@
+body{
+
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url(../imagenes/rana_fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+  p {
+        font-size: 17px;
+        font-family: Geneva, Verdana, sans-serif;
+    
+    }
+
+
+
+    table {
+    width: 90%;
+    background-color:  #caf0b3;
+    border: 2px solid;
+    border-style: groove;
+
+    }
+    a{
+      position: fixed;
+  }
